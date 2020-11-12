@@ -1,2 +1,3 @@
-# modules-package-managers-bundlers-sandbox
-An exploration about Modules, Package Managers and Bundlers
+# ES6 Modules and related topics
+
+This is an exploration about Modules, Package Managers and Bundlers.

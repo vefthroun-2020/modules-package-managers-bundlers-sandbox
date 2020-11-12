@@ -1,0 +1,26 @@
+{
+  "name": "modules-package-managers-bundlers-sandbox",
+  "version": "1.0.0",
+  "description": "This is an exploration about Modules, Package Managers and Bundlers.",
+  "main": "script.js",
+  "dependencies": {
+    "google-maps": "^4.3.3"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "build": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vefthroun-2020/modules-package-managers-bundlers-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vefthroun-2020/modules-package-managers-bundlers-sandbox/issues"
+  },
+  "homepage": "https://github.com/vefthroun-2020/modules-package-managers-bundlers-sandbox#readme"
+}
