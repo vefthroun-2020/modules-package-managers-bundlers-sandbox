@@ -4,7 +4,8 @@
   "description": "This is an exploration about Modules, Package Managers and Bundlers.",
   "main": "script.js",
   "dependencies": {
-    "google-maps": "^4.3.3"
+    "google-maps": "^4.3.3",
+    "postcss-modules": "^3.2.2"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
